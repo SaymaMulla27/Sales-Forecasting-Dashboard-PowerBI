@@ -19,7 +19,7 @@ The project focuses on analyzing Superstore sales and building a short-term sale
 - Power BI (for visualization)
 
 ### 📸 Dashboard Preview
-![Superstore Sales Dashboard]![image](https://github.com/user-attachments/assets/7bf1cede-f528-4db0-9483-616dc10b25f2)
+[image](https://github.com/user-attachments/assets/7bf1cede-f528-4db0-9483-616dc10b25f2)
 
 
 ---
@@ -37,7 +37,7 @@ The project focuses on analyzing Superstore sales and building a short-term sale
 - Power BI (forecasting tool)
 
 ### 📸 Dashboard Preview
-![Superstore Sales Forecast Dashboard]![image](https://github.com/user-attachments/assets/12024ad4-d83c-4e38-b318-ab31df43f810)
+[image](https://github.com/user-attachments/assets/12024ad4-d83c-4e38-b318-ab31df43f810)
 
 
 ---
